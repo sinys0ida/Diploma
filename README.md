@@ -1,5 +1,7 @@
 # Diploma
 
+Привет
+
 [Видение][def]
 
 [def]: vid.md
