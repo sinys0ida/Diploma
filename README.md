@@ -1,7 +1,5 @@
 # Diploma
 
-gg
-
 [Видение][def]
 
 [def]: vid.md
