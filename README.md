@@ -1,7 +1,5 @@
 # Diploma
 
-s
-
 [Видение](vid.md)
 
 [Словарь терминов](slovar.md)
