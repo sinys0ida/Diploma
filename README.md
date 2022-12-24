@@ -1,5 +1,7 @@
 # Diploma
 
+ghbdtn
+
 [Видение][def]
 
 [def]: vid.md
