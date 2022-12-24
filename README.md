@@ -1,4 +1,4 @@
-# Diplom
+# Diploma
 
 [Видение][def]
 
