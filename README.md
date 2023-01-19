@@ -1,6 +1,6 @@
 # Diploma
 
-[Видение](vid.md)
+[Видение](videnie.md)
 
 [Словарь терминов](slovar.md)
 
