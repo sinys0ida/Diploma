@@ -28,8 +28,9 @@ app.get('/data', (req, res) => {
 });
 
 
-app.use(express.static(__dirname + '/public'));
 
+/*app.use(express.static(__dirname + '/index.html'));
+*/
   app.get('/', function (req, res) {
     res.sendFile(__dirname + '/index.html');
   }); 
